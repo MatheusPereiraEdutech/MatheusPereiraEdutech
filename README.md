@@ -3,9 +3,9 @@
 ### MATHEUS HENRIQUE PEREIRA DA SILVA
 👋 ola,meu username é @MatheusPereiraEdutech
 - 👀 MEU E-MAIL É matheus.pereira.silva27@escola.pr.gov.br
-- 🌱 I’m currently learning game
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- estou aprendendo,para futuramente fazer jogos
+
+
 
 <!---
 MatheusPereiraEdutech/MatheusPereiraEdutech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
